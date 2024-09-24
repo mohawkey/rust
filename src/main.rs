@@ -6,4 +6,5 @@ fn main() {
     println!("MIN {}", b);
 
     println!("Hello World!");
+    Println!("This is the way!");
 }
