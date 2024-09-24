@@ -4,4 +4,6 @@ fn main() {
     
     println!("MAX {}", a);
     println!("MIN {}", b);
+
+    println!("Hello World!");
 }
